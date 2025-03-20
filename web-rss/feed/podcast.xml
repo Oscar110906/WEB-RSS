@@ -10,7 +10,7 @@
             <title>AUDIO REVISIÓN VAR | UD Las Palmas - FC Barcelona | Minuto 80</title>
             <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</link>
             <description>Jornada 25: Análisis del VAR en el partido UD Las Palmas vs. FC Barcelona.</description>
-            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" type="audio/mpeg"/>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" length="1182033" type="audio/mpeg"/>
             <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</guid>
         </item>
 
@@ -18,7 +18,7 @@
             <title>AUDIO REVISIÓN VAR | Real Madrid CF - Atlético de Madrid | Minuto 30</title>
             <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</link>
             <description>Jornada 23: Revisión VAR en el derbi madrileño.</description>
-            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" type="audio/mpeg"/>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" length="768671" type="audio/mpeg"/>            
             <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</guid>
         </item>
 
@@ -26,7 +26,7 @@
             <title>AUDIO REVISIÓN VAR | Valencia CF - Real Madrid CF | Minuto 77</title>
             <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</link>
             <description>Jornada 12: Decisión clave del VAR en el partido Valencia vs. Real Madrid.</description>
-            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" type="audio/mpeg"/>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" length="367849" type="audio/mpeg"/>
             <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</guid>
         </item>
     </channel>
