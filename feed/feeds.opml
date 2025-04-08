@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>ju. mar. 20 12:57:48 2025</dateModified>
+    </head>
+    <body>
+        <outline text="QuiteRSS" type="rss" htmlUrl="https://quiterss.org" xmlUrl="https://quiterss.org/en/rss.xml"/>
+        <outline text="web-rss">
+            <outline text="El Rincón del Futbolista - Últimos Escándalos" type="rss" htmlUrl="https://tusitio.com" xmlUrl="https://oscarcastro06.neocities.org/web-rss/feed/rss.xml"/>
+            <outline text="Audios VAR Publicados" type="rss" htmlUrl="https://tusitio.com/audios-var" xmlUrl="https://oscarcastro06.neocities.org/web-rss/feed/podcast.xml"/>
+        </outline>
+    </body>
+</opml>
