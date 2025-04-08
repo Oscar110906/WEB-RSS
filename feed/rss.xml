@@ -2,33 +2,33 @@
 <rss version="2.0">
     <channel>
         <title>El Rincón del Futbolista - Últimos Escándalos</title>
-        <link>https://tusitio.com</link>
+        <link>https://oscar110906.github.io//WEB-RSS/index.html</link>
         <description>Últimas noticias y escándalos en el mundo del fútbol</description>
         <language>es</language>
         <lastBuildDate>Thu, 20 Mar 2025 12:00:00 GMT</lastBuildDate>
 
         <item>
             <title>Escándalo de penaltis en Octavos de Final de la Champions League</title>
-            <link>https://tusitio.com/blog/posts/post1.html</link>
+            <link>https://oscar110906.github.io//WEB-RSS/blog/posts/post1.html</link>
             <description>¡Polémica en la Champions! El penalti de Julián Álvarez genera controversia en la eliminatoria Atlético de Madrid vs. Real Madrid.</description>
             <pubDate>Wed, 19 Mar 2025 10:00:00 GMT</pubDate>
-            <guid>https://tusitio.com/blog/posts/post1.html</guid>
+            <guid>https://oscar110906.github.io//WEB-RSS/blog/posts/post1.html</guid>
         </item>
 
         <item>
             <title>Escándalo arbitral en el fútbol español: clubes y aficionados en pie de guerra contra el VAR y los árbitros</title>
-            <link>https://tusitio.com/blog/posts/post2.html</link>
+            <link>https://oscar110906.github.io//WEB-RSS/blog/posts/post2.html</link>
             <description>Polémica arbitral en España: clubes exigen justicia y amenazan con acciones legales.</description>
             <pubDate>Tue, 18 Mar 2025 15:30:00 GMT</pubDate>
-            <guid>https://tusitio.com/blog/posts/post2.html</guid>
+            <guid>https://oscar110906.github.io//WEB-RSS/blog/posts/post2.html</guid>
         </item>
 
         <item>
             <title>¡Bomba en el Camp Nou! Dani Olmo podría quedar libre si el Barça no logra inscribirlo</title>
-            <link>https://tusitio.com/blog/posts/post3.html</link>
+            <link>https://oscar110906.github.io//WEB-RSS/blog/posts/post3.html</link>
             <description>¡Alerta en el Barça! Dani Olmo podría quedar libre por problemas financieros.</description>
             <pubDate>Mon, 17 Mar 2025 08:45:00 GMT</pubDate>
-            <guid>https://tusitio.com/blog/posts/post3.html</guid>
+            <guid>https://oscar110906.github.io//WEB-RSS/blog/posts/post3.html</guid>
         </item>
     </channel>
 </rss>
